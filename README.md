@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Youssef Ameachaq
 - 👀 I’m a Fullstack Web developer & Consultant.
 - 🌱 I’m currently learning Kotlin and Spring Boot
-- 💞️ I’m looking to collaborate on small javascript projrcts
+- 💞️ I’m looking to collaborate on small javascript projects
 - 📫 How to reach me contact@youssame.com
 
 <!---
